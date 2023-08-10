@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 div {
     text-align: center;
     background-color: red;
     color: white;
     font-weight: bold;
+=======
+.external {
+
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 35px;
+>>>>>>> 08f242bcb1a92d7fcf66cc5b66b5369d4587d01d
 }
